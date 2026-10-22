@@ -6,9 +6,9 @@
 # MAGIC `samples.bakehouse` table and applies data-quality checks, including one custom check defined in this notebook.
 # MAGIC **It only prints. Nothing is written anywhere.**
 # MAGIC
-# MAGIC **Before you start:** copy the unzipped `dqx_wheels` folder (22 `.whl` files) into a UC Volume
+# MAGIC **Before you start:** copy the unzipped `dqx_wheels` folder (27 `.whl` files) into a UC Volume
 # MAGIC (Catalog Explorer → volume → *Upload to this volume*) or a workspace folder (Workspace → *Import*).
-# MAGIC Set its path in the first cell. Use a classic cluster on DBR 16.4 / 17.3 / 18 LTS (x86_64).
+# MAGIC Set its path in the first cell. Use a classic cluster on DBR 15.4 LTS or 16.4 LTS (x86_64).
 
 # COMMAND ----------
 
